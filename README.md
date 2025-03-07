@@ -47,7 +47,7 @@ I’m also a **trainer and mentor wannabe**, helping aspiring QA professionals t
 ### **Quality Assurance Trainer**  
 #### Rumos | 2025 - Present  
 - Deliver hands-on training sessions for aspiring QA professionals.  
-- Cover topics like **manual testing**, **UAT best practices**, and **automation testing with Playwright**.  
+- Cover topics like **manual testing concepts**, **UAT best practices**, and **soft skills for QA's**.  
 - Develop training materials and mentor trainees in real-world testing scenarios.  
 
 ### **Quality Assurance Tester**  
